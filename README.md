@@ -1,8 +1,8 @@
-# 🧙‍♂️ Web3-Binomo - Stake AVAX and Predict the Market!
+#  Web3-Binomo - Stake AVAX and Predict the Market!
 
 Welcome to **Web3-Binomo**, a thrilling blockchain-based prediction platform built around the **Quidditch (Harry Potter)** theme to bring fun and fantasy into the DeFi world. 🪄🚀
 
-## 🧩 About the Project
+##  About the Project
 
 **Web3-Binomo** lets you **stake your AVAX tokens** and place a prediction based on the AVAX price. If the price hits your predicted point within the set duration, **you win**! If not, **your staked AVAX is gone**.
 
@@ -21,7 +21,7 @@ Once the prediction is over, **you can claim your funds directly to your wallet*
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Stake AVAX to predict price movement
 - NFT requirement for eligibility
@@ -32,7 +32,7 @@ Once the prediction is over, **you can claim your funds directly to your wallet*
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - ✅ **Kafka** for event-driven processing
 - ✅ **Dockerization** of the entire stack
@@ -43,7 +43,7 @@ Once the prediction is over, **you can claim your funds directly to your wallet*
 
 ---
 
-## 🎨 Theme Inspiration
+## Theme Inspiration
 
 This isn't just a Web3 project – it’s an **adventure into a magical realm**. The **Quidditch-style UI** brings the thrill of fantasy sports to DeFi, where every stake feels like a match in the skies.
 
@@ -57,14 +57,14 @@ This isn't just a Web3 project – it’s an **adventure into a magical realm**.
 
 ---
 
-## 📦 Getting Started
+## Getting Started...
 
 ```bash
 # Clone the repo
 git clone https://github.com/your-username/Web3-Binomo.git
 
 # Navigate to frontend
-cd frontend
+cd Client
 
 # Install frontend dependencies
 npm install
